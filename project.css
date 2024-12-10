@@ -1,0 +1,25 @@
+Body  {
+    background: linear-gradient(#FCBAF1,#b0efb0);
+    background-repeat: no-repeat;
+    background-attachment: fixed
+}
+H1 {
+    color: #6F935B;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 26px;
+    margin-left: 40px;
+}
+h2 {
+    color: #e132a1;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: #6F935B wavy;
+    font-size: 22px;
+    margin-left: 20px; }
+
+p { 
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 15px;
+}
